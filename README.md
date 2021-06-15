@@ -3,6 +3,14 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+---
+> **💾I like to program on python, shell**
+
+> **🗂️I'm interested cybersecurity**
+
+> **📦I can write code on: python, shell**
+
+> **🎟️I'm interested hacking**
 
 <!--
 **mishakorzik/mishakorzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
