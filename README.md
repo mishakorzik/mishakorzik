@@ -22,10 +22,8 @@
 
 ### Special Tranks:
 
-```
-UserName: Matvii Sakhl_
-Email: matvisakhl@gmail.com 
-```
+- <a href="http://github.com/SuperOchkobus">SuperOchkobus</a>
+
 
 <!--
 **mishakorzik/mishakorzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
