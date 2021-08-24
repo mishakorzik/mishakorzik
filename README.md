@@ -12,10 +12,6 @@
 
 > **🎟️I'm interested hacking**
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 ----
 
 ### My Projects
@@ -48,6 +44,14 @@
 <a href="https://github.com/mishakorzik/IpHack"><img title="View" src="https://img.shields.io/badge/View-IpHack-red?style=for-the-badge&logo=github"></a>
 
 -------
+## Systems OS
+
+[![WINDOWS](https://img.shields.io/badge/computer-black?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+--------
 
 ### Special Tranks:
 
