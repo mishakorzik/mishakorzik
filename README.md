@@ -16,7 +16,7 @@
 
 ### My Projects
 
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-php-%230075a8?logo=php&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-%23e9c241?logo=java&logoColor=white&style=flat-square) ![Shell](https://img.shields.io/badge/-Shell-green?logo=shell&logoColor=white&style=flat-square) 
 
 - **I use shell for most projects**
