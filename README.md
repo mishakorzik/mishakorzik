@@ -12,6 +12,9 @@
 
 > **🎟️I'm interested hacking**
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishakorzik&layout=compact&theme=default&line_height=25&layout=compact" /></p>
+
+
 ----
 
 ### My Projects
@@ -51,6 +54,8 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
 --------
 
