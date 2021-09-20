@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mishakorzik
 - 👀 I’m interested in hacking & cybersecurity
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️  I will highly love to know and collaborate with you.
 - 📫 How to reach me misakorzik528@gmail.com
 ---
 > **💾I like to program on python, shell**
