@@ -33,8 +33,10 @@
 [![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/mishakorzik)
 [![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
 
-<a href="mailto:misakorzik528@gmail.com"><img title="Report bug" src="https://img.shields.io/badge/email-misakorzik528%40gmail.com-darkred?style=for-the-badge&logo=gmail"></a>
-<a href="mailto:miguardzecurity@gmail.com"><img title="Report bug" src="https://img.shields.io/badge/email-misakorzik528%40gmail.com-darkred?style=for-the-badge&logo=gmail"></a>
+## Donate
+
+**If you want to donate, click on the button**
+<a href="https://www.donationalerts.com/r/misha_korzhik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
 
 ------
 
