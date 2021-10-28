@@ -12,15 +12,12 @@
 
 > **🎟️I'm interested hacking**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishakorzik&layout=compact&theme=default&line_height=25&layout=compact" /></p>
-
-
 ----
 
 ### My Projects
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-php-%230075a8?logo=php&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
-![Markdown](https://img.shields.io/badge/-Markdown-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-%23e9c241?logo=java&logoColor=white&style=flat-square) ![Shell](https://img.shields.io/badge/-Shell-green?logo=shell&logoColor=white&style=flat-square) 
+![Markdown](https://img.shields.io/badge/-Markdown-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![Shell](https://img.shields.io/badge/-Shell-green?logo=shell&logoColor=white&style=flat-square) 
 
 - **I use shell for most projects**
 - **I like programming in python the most**
@@ -42,13 +39,13 @@
 
 #### I Recommend To look:
 
-<a 
-href="https://github.com/mishakorzik/AllHackingTools"><img title="View" src="https://img.shields.io/badge/View-AllHackingTools-blue?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik/Ultra-DDos"><img title="View" src="https://img.shields.io/badge/View-UltraDDOS-green?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik/Free-Proxy"><img title="View" src="https://img.shields.io/badge/View-FreeProxy-green?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik/UserFinder"><img title="View" src="https://img.shields.io/badge/View-UserFinder-yellow?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik/AdminHack"><img title="View" src="https://img.shields.io/badge/View-AdminHack-orange?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik/IpHack"><img title="View" src="https://img.shields.io/badge/View-IpHack-red?style=for-the-badge&logo=github"></a>
+- <a 
+href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system for large hacking</a><br>
+- <a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a>
+- <a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a><br>
+- <a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a><br>
+- <a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking admin panel</a><br>
+- <a href="https://github.com/mishakorzik/IpHackk">IpHack - Easy Tracking smartphones</a><br>
 
 -------
 ## Systems OS
