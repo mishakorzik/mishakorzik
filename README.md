@@ -8,7 +8,7 @@
 
 > **🗂️I'm interested cybersecurity**
 
-> **📦I can write code on: python, shell, php, batchfile**
+> **📦I can write code on: python, shell, batchfile**
 
 > **🎟️I'm interested hacking**
 
