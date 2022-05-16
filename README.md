@@ -23,7 +23,6 @@
 - **I like programming in python the most**
 - **I try to study Web development**
 - **Learning java programming**
-- **I am 13 years old**
 
 ## Find Me On
 [![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
