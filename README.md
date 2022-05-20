@@ -4,25 +4,18 @@
 - 💞️  I will highly love to know and collaborate with you.
 - 📫 How to reach me developer.mishakorzhik@gmail.com
 ---
-> **💾I like to program on python, shell**
+> **💾Pogramming on python, shell**
 
 > **🗂️I'm interested cybersecurity**
 
-> **📦I can write code on: python, shell, batchfile**
+> **📦Coding on: python, shell**
 
 > **🎟️I'm interested hacking**
 
 ----
 
-### My Projects
-
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-php-%230075a8?logo=php&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![Shell](https://img.shields.io/badge/-Shell-green?logo=shell&logoColor=white&style=flat-square) 
-
-- **I use shell for most projects**
-- **I like programming in python the most**
-- **I try to study Web development**
-- **Learning java programming**
 
 ## Find Me On
 [![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
