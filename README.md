@@ -35,9 +35,10 @@
 
 - <a 
 href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system for large hacking</a><br>
-- <a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a>
+- <a href="https://github.com/mishakorzik/py-ddoser">Py-ddoser - Very strong ddos with proxy</a>
 - <a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a><br>
 - <a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a><br>
+- <a href="https://github.com/mishakorzik/MailFinder">MailFinder - Finding email by first and last name</a><br>
 - <a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking admin panel</a><br>
 - <a href="https://github.com/mishakorzik/IpHackk">IpHack - Easy Tracking smartphones</a><br>
 
