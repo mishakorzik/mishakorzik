@@ -4,7 +4,7 @@
 - 💞️ I like coding with python, shell
 - 📫 developer.mishakorzhik@gmail.com
 ---
-> **💾Pogramming on python, shell**
+> **💾Programming on python, shell**
 
 > **🗂️I'm interested cybersecurity**
 
