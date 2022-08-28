@@ -52,9 +52,6 @@ href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system f
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
-## Other
-
-##### Free online chat for everyone <a href="https://9307-62-122-202-244.eu.ngrok.io/">JOIN</a>
 --------
 
 ### Special Tranks:
