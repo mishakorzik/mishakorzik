@@ -52,6 +52,13 @@ href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system f
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
+## Infinity Proxy
+```
+https, http     -  6.tcp.eu.ngrok.io:19962
+socks4, socks5  -  7.tcp.eu.ngrok.io:15841
+```
+These proxies change the region and IP, hing anonymous 
+
 --------
 
 ### Special Tranks:
