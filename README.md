@@ -54,8 +54,8 @@ href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system f
 
 ## Infinity Proxy
 ```
-https, http     -  6.tcp.eu.ngrok.io:19962
-socks4, socks5  -  7.tcp.eu.ngrok.io:15841
+https, http     -  10.253.31.197:1540
+socks4, socks5  -  10.253.31.197:1600
 ```
 These proxies change the region and IP, hing anonymous 
 
