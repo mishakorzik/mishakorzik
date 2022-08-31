@@ -57,8 +57,8 @@ href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system f
 https, http     -  6.tcp.eu.ngrok.io:10882
 socks4, socks5  -  7.tcp.eu.ngrok.io:17912
 
-ping 300-550ms, if you load the proxy server, 
-it can speed up to 150-300ms
+ping 300-750ms, if you load the proxy server, 
+it can speed up to 150-350ms
 ```
 These proxies change the region and IP, using tor
 
