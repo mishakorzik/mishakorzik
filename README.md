@@ -54,8 +54,8 @@ href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system f
 
 ## Infinity Proxy
 ```
-https, http     -  3.68.56.232:18276
-socks4, socks5  -  3.68.56.232:17912
+https, http     -  3.67.161.133:19212
+socks4, socks5  -  3.127.138.57:17817
 
 vpn ping: 100-200ms
 tor ping: 200-500ms
