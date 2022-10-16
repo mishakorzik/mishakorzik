@@ -54,11 +54,10 @@ href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system f
 
 ## Infinity Proxy
 ```
-https, http     -  3.67.161.133:19212
-socks4, socks5  -  3.127.138.57:17817
+https, http     -  3.66.38.117:16462
+socks4, socks5  -  18.158.58.205:14612
 
 vpn ping: 100-200ms
-tor ping: 200-500ms
 ```
 These proxies change the region and IP, using tor or vpn
 
