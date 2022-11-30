@@ -28,11 +28,6 @@
 
 **If you want to donate, click on the button**
 <a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Buy Me-A Coffee-yellow?style=for-the-badge&logo=github"></a>
-
-OR
-
-**Bitcoin: BC1Q5FXTEKHF7CWT5ASPECVV273TAA58PAQVZYW76E**
-
 ------
 
 #### I Recommend To look:
