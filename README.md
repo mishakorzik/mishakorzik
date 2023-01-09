@@ -53,8 +53,8 @@ href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system f
 
 ## Infinity Proxy
 ```
-socks4 - 18.158.58.205:14612
-socks5 - 18.158.58.205:14612
+socks4 - offline
+socks5 - offline
 
 vpn ping: 100-150ms
 ```
