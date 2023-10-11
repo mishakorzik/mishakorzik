@@ -60,13 +60,6 @@ vpn ping: 100-150ms
 ```
 These proxies change the region and IP, using tor or vpn
 
---------
-
-### Special Tranks:
-
-- <a href="http://github.com/SuperOchkobus">SuperOchkobus</a>
-- <a href="https://github.com/Zard2007">Zard2007</a>
-
 <!--
 **mishakorzik/mishakorzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
