@@ -42,7 +42,7 @@ href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system f
 - <a href="https://github.com/mishakorzik/IpHackk">IpHack - Easy Tracking smartphones</a><br>
 
 -------
-## Systems OS
+## Systems etc.
 
 [![WINDOWS](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
