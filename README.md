@@ -3,25 +3,9 @@
 - 🌱 I’m learning programming
 - 💞️ I like coding with python, shell
 - 📫 developer.mishakorzhik@gmail.com
----
-> **💾Programming on python, shell**
-
-> **🗂️I'm interested cybersecurity**
-
-> **📦Coding on: python, shell**
-
-> **🎟️I'm interested hacking**
-
-----
-
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-php-%230075a8?logo=php&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
-![Markdown](https://img.shields.io/badge/-Markdown-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![Shell](https://img.shields.io/badge/-Shell-green?logo=shell&logoColor=white&style=flat-square) 
 
 ## Find Me On
-[![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
 [![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/ubp2q)
-[![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/mishakorzik)
-[![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
 [![Github](https://img.shields.io/badge/Discord-He1Zen-blue?style=for-the-badge&logo=discord)](https://discord.gg/xwpMuMYW57)
 
 ## Donate
@@ -51,15 +35,6 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
-
-## Infinity Proxy
-```
-socks4 - offline
-socks5 - offline
-
-vpn ping: 100-150ms
-```
-These proxies change the region and IP, using tor or vpn
 
 <!--
 **mishakorzik/mishakorzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
