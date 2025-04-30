@@ -4,14 +4,10 @@
 - 💞️ I like coding with python, shell
 - 📫 developer.mishakorzhik@gmail.com
 
-## Find Me On
+### Find Me On
 [![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/ubp2q)
 [![Github](https://img.shields.io/badge/Discord-He1Zen-blue?style=for-the-badge&logo=discord)](https://discord.gg/xwpMuMYW57)
 
-## Donate
-
-**If you want to donate, click on the button**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Buy Me-A Coffee-yellow?style=for-the-badge&logo=github"></a>
 ------
 
 #### I Recommend To look:
@@ -26,7 +22,7 @@
 - <a href="https://github.com/mishakorzik/IpHackk">IpHack - Easy Tracking smartphones</a><br>
 
 -------
-## Systems etc.
+### Systems etc.
 
 [![WINDOWS](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
