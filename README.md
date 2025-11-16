@@ -4,10 +4,6 @@
 - 💞️ I like coding with python, shell
 - 📫 developer.mishakorzhik@gmail.com
 
-### Find Me On
-[![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/ubp2q)
-[![Github](https://img.shields.io/badge/Discord-He1Zen-blue?style=for-the-badge&logo=discord)](https://discord.gg/xwpMuMYW57)
-
 ------
 
 #### I Recommend To look:
