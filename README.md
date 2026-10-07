@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m learning programming
 - 💞️ I like coding with python, shell
-- 📫 developer.mishakorzhik@gmail.com
 
 <!--
 **mishakorzik/mishakorzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
